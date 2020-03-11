@@ -5,11 +5,11 @@ title = "Career"
 ### Professional Experience
 #### Bloomberg 
 ##### UX Specialist / NJ / 2017 - Current
-Bloomberg L.P. is a privately held financial, software, data, and media company headquartered in Midtown Manhattan, New York City. Princeton office focuses on providing data and information with highest client value. Working as a UX specialist to design and implement data processing experience and user workflow.
+Bloomberg L.P. is a privately held financial, software, data, and media company headquartered in Midtown Manhattan, New York City. I am working in Princeton office as a UX specialist innovating user experience on tech stack componentd which are leveraged to build efficient data processing pipelines to serve the best in class quality data into client facing screens of Bloomberg terminal in timely manner.
 
 #### Mobients
 ##### UX Specialist / NYC / 2013 - 2017
-Mobients is a boutique design shop focusing on mobile user experience consultancy covering wide range of industries such as finance, media, telecom, retails, airlines, and mobile phone manufacturers. Worked on various projects as UX specialist wearing different hats, individual contributing design, project leader, scrum master, and project coordinator.
+Mobients is a boutique UX design shop focusing on mobile user experience consultancy covering wide range of industries such as finance, media, telecom, retails, airlines, and mobile phone manufacturers. I worked on various projects as a UX specialist wearing different hats according to switching business priorities and initiatives, individual contributing designer, project leader, scrum master, and project coordinator.
 - Bloomberg iOS/Android : Revamp global navigation of mobile app 
 - Bloomberg iOS/Android : Usability testing and analysis 
 - Bloomberg iOS : Establish UX pattern library 
