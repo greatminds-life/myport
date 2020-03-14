@@ -11,11 +11,11 @@ UX design / Requirement Gathering / Wireframe / Workflow / Prototype
 <!--more-->
 
 #### Background
-Bloomberg terminal provides more than 20,000 functions to allow financial professionals to look up relevant and timely financial information. Alert catcher is one of the offerings which notifies users with market, news and economic event alerts when specified conditions are met. Once you set alert conditions for those type of alerts, you will get stream of alerts feeds on your mobile, but there is no way you can create new alert conditions on mobile yet. This could only be configured via desktop interface, and there has been growing needs that users want to customize this feature on mobile as well. Starting with market alerts support, we plan to take phased approach to tackle three different alert types in order.
+Bloomberg terminal provides more than 20,000 functions to allow financial professionals to look up relevant and timely financial information. Alert catcher is one of the offerings which notifies users with market, news and economic event alerts when specified conditions are met(see image below). Once you set alert conditions for those type of alerts, you will get stream of alerts feeds on your mobile, but there is no way you can create new alert conditions on mobile yet. This could only be configured via desktop interface, and there has been growing needs that users want to customize this feature on mobile as well. Starting with market alerts support, we plan to take phased approach to tackle three different alert types in order.
 
-![ac1][1]
-Markets, News, Economic alerts supported on Bloomberg terminal
-
+![ac1][1]  
+  
+  
 #### What to support on mobile?
 After we decided to support market alerts first on mobile, the next thing is to identify core features we need to scale from desktop to mobile. First we wanted to get the full picture of desktop functinalities by going through each criteria or options we can configure to create market alert then tried to identify criteria and options to be supported on mobile with product owners and developers. We were able to create the following list of user stories for mobile experience. 
 
@@ -23,7 +23,6 @@ After we decided to support market alerts first on mobile, the next thing is to 
 * I want to turn on/off market alerts created from desktop
 * I want to create market alert from security page
 * I want to set notifications of market, eco and news alerts on mobile
-
 ![ac2][2]
 Markets, Economic events, news alerts supported on Bloomberg professional mobile
 
@@ -32,7 +31,6 @@ Based on the existing navigation framework of mobile alert catcher, one of the k
 After designing workflows, created individual key screens for each state and put them into wireframe flows to elaborate user stories and requirements captured in the earlier phases.
 
 ![ac3][3]
-Create and edit a market alert from 3 difference screens
 
 #### Workflow : Create an alert from market alerts and settings
 ![ac4][4]

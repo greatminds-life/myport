@@ -17,9 +17,9 @@ As NJ UX team lead, I got a chance to join marketing campaign with sales team at
 
 #### Implimentation
 We collaborated marketing team to prepare preloaded content and engineering team to support dedicated software for devices to be displayed in stores. This software can be installed OTA as needed. Basic concept of the in-store mode software were:
-> in store smartphone should be pre configured to demonstrate the full potential of Galaxy devices while allow visitors freely change and explore them.
-> in store smart phone should provide promotional content.
-> in store smartphone should automatically reset to default configuration overnight to provide brand new experience everyday.
+* in store smartphone should be pre configured to demonstrate the full potential of Galaxy devices while allow visitors freely change and explore them.
+* in store smart phone should provide promotional content.
+* in store smartphone should automatically reset to default configuration overnight to provide brand new experience everyday.
 These UX requirements were implemented as 'in store software' to be installed on Samsung Galaxy series in retail stores
 ![is3][3]
 ![is4][4]

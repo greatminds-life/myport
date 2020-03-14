@@ -30,17 +30,22 @@ What we found was that there exists 4 primary components making large-scale adop
 We examined the landscape of current solution to identify opportunities and unmet user needs. 
 ![ss5][5]
 
+
 #### Brainstorm
 Based on findings from user and competitive landscape research, we explored new feature ideas and mapped on experience curve which was developed to understand best concepts for addressing each experience maturity level.
 ![ss6][6]
 ![ss7][7]
 
+
 #### Principle and metric
 Based on our findings thus far, we developed a set of guiding principles to focus our efforts and ensure our designs addressed the challenges and opportunities the target audience presents us with. And these principles are mapped with actual success metrics to measure the success or acceptance of this concept in the market.
+
 ![ss8][8]
+
 
 #### Concept filtering
 In order to prioritize the strongest concepts, we evaluated the initial list of ideas based on severity of issue, daily impact and audience coverage. Sum of scores of each evaluation criteria was sorted and decided to prioritize only top 10 concept for further exploration.
+
 ![ss9][9]
 
 #### Design
@@ -50,6 +55,7 @@ For selected top 10 concepts, we began to visualize them by sketching and add mo
 #### Final winner
 We have further filter down to top 3 concepts and further explore the design details enough to compare those three concepts in terms of market impact and feasibility. We finally selected "Action edge" for final iteration of design.
 ![ss11][11]
+
 
 #### Design specification
 Action Edge is an Edge panel designed to provide quick access to an evolving set of recommended tasks. It deep-links across the devices native and installed apps to surface one-touch actions that are relevant to the user at that place and time. We have provided detailed workflows and specifications on action cards as well as visual design comps and specifications.

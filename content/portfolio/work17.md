@@ -64,6 +64,7 @@ In order to inform drastic updates from old version, on-boarding interactive vid
 After new framework being release to all users, I have collected quantitative metric from implemented metric and qualitative feedback from client outreach to measure our success. New framework is accepted very positively for most users, numbers from metric also support the same. 
 ![rd9][9]
 ![rd10][10]
+
 ![rd11][11]
 
 #### Take away

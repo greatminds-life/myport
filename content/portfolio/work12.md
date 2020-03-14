@@ -24,7 +24,9 @@ After couple of rounds of auditing, we found 35 design patterns. These patterns 
 
 #### Patterns
 The first 35 patterns were just a starting point. New patterns come in to picture and some patterns were merged or removed by redesigning. We held weekly workshop to define patterns from low-hanging fruit group and compile them on confluence page by category. When defining design pattern, we added context, usage with do and don't and example wireframes or short video clips to demonstrate the pattern properly.
+
 ![up3][3]
+
 ![up4][4]
 
 #### Take away

@@ -12,11 +12,14 @@ Test Planning / Test Script / Analysis
 
 #### Background
 In preparation of major update on Bloomberg professional mobile application, lab based usability testing was planned.  I worked on identifying key questions to be tested, define decide target audience to recruit and developed actual test scripts for moderator to follow. Major findings were reviewed and updated.
+
 ![ut1][1]
 
 #### Planning
-Main updates for the new framework was multiple tab structure while previous one had single view system. Five main tabs are today view, global search, create new, notifications and menu. I collaborated research team by providing research questions on those five tabs and recruiting criteria. Target client were balanced in terms of player type, asset classes and sell/buy side. Total of 16 clients were recruited and ran through the questions. 
+Main updates for the new framework was multiple tab structure while previous one had single view system. Five main tabs are today view, global search, create new, notifications and menu. I collaborated research team by providing research questions on those five tabs and recruiting criteria. Target client were balanced in terms of player type, asset classes and sell/buy side. Total of 16 clients were recruited and ran through the questions.
+
 ![ut2][2]
+
 
 #### Test Scripts
 I prepared the test scripts considering the task flows during test session to be seamless and and natural. Points to note for each test script will contribute to easily identify design implication afterwards.
@@ -24,8 +27,10 @@ I prepared the test scripts considering the task flows during test session to be
 
 #### Testing
 Testing happened over two weeks, there was debrief session after each round of testing. I moderated the debrief sessions to collect positive/negative feedback from observers in observing area. Debrief sessions contributed to sharing common findings and identifying quick action items.
-![ut4][4]
 
+![ut4][4]  
+
+  
 #### Result/Analysis
 Though most of quick action items were identified during on-site debrief sessions, we also clarified usability issues which may require longer term or high level of effort to fix. These items were filtered from the final report from research team and created epics or stories in JIRA system for later resolution.
 ![ut5][5]
