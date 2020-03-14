@@ -1,31 +1,22 @@
 +++
+date = "2016-11-05T01:25:22+05:30"
+title = "Samsung Galaxy EZ UI"
 draft = false
-image = ""
-date = "2016-11-05T19:56:17+05:30"
-title = "Name of the work 6"
+image = "img/portfolio/EZ_hero.png"
 showonlyimage = false
-weight = 6
+weight = 12
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+UX design / Design Evaluation
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+#### Mode switch for new users
+Samsung Galaxy series supported 'Starter mod' UI to provide easy to use interface layout for those who start using Galaxy phones for the first time, or prefers simple UI layout. I oversaw design process and updated flow, terminology and screen elements to be displayed. Starter mode also worked for again generation since it provides fewer screen elements, bigger font and easier to manage. 
+![ez1][1]
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+#### Starter mode
+When switched to starter mode, it only supports 3 home screens - favorite contacts, main home with minimum applications, application tray with basic applications. Settings page also support only core elements for using phones.
+![ez2][2]
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+[1]: /img/portfolio/EZ1.png
+[2]: /img/portfolio/EZ2.png

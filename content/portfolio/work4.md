@@ -1,31 +1,21 @@
 +++
+date = "2016-11-05T01:25:22+05:30"
+title = "Smart Contacts"
 draft = false
-image = ""
+image = "img/portfolio/SC_hero.png"
 showonlyimage = false
-date = "2016-11-05T19:50:47+05:30"
-title = "Item without image"
-weight = 4
+weight = 14
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+UX design / UX Evaluation
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+#### Concept evaluation and design
+'Smartr' solution was a solution aiming to create contact list automatically by parsing communication history from email, call log. Based on past communication history, it targeted to provide contact list sorted by relationship. I worked on evaluating this concept in terms of usability and business value as well as design integration into TouchWiz UX platform to estimate expected LOE for engineering team. It helped me to look at UX as a platform and pattern perspective.
+![sc1][1]
+![sc2][2]
+![sc3][3]
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+[1]: /img/portfolio/SC1.png
+[2]: /img/portfolio/SC2.png
+[3]: /img/portfolio/SC3.png

@@ -1,31 +1,28 @@
 +++
-image = "https://github.com/kishaningithub/hugo-creative-portfolio-theme/raw/master/exampleSite/static/img/portfolio/business-card.jpg"
-showonlyimage = true
+date = "2016-11-05T01:25:22+05:30"
+title = "Samsung Galaxy On-Device Help"
 draft = false
-date = "2016-11-05T19:53:42+05:30"
-title = "Name of the work 5"
-weight = 5
+image = "img/portfolio/HP_hero.png"
+showonlyimage = false
+weight = 13
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+UX design / User Research
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+#### Motivation
+Business goal of Verizon wireless team was to reduce the customer care calls regarding how to use the device or features, i.e. UX related issues. To address this, formal usability testing was included as part of device approval process and address all critical issues found.
+From different perspective, I thought it would be good to have some kind of tool which guides users to learn how to use the features, not necessarily require them to visit web page, but on smartphone itself. I noticed that all Samsung smartphones didn't have help or tutorials on device. From this recognition, I tried to convince HQ management team to work on this, and got 2 designers dispatched for 2 months to work on this concept with me in NJ. I have led the project and delivered the result to HQ. Taking that as baseline, now all Samsung Galaxy series devices have on device help applications.
+3 main directions were suggested :
+* need stand alone help application to consolidate all device related tutorials or tips.
+* on screen help should be provided only when it is relevant and needed.
+*'Try it' link in the help application or 'Need help?' link in actual application.
+![sc1][1]
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+#### Implimentation
+I initiated this project when I was a team lead in NJ UX team, when no Galaxy smartphones carried on device help application. I presented the findings and design suggestion from this project to HQ design management and convinced them this is critical feature for Samsung smart phones and they decided to implement this on Samsung TouchWiz UX platform for global launch. From Galaxy S2, this feature was included and introduced globally. 
+Help application, on screen tutorial and step by step guide link were implemented as the project originally proposed.
+![sc2][2]
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+[1]: /img/portfolio/HP1.png
+[2]: /img/portfolio/HP2.png
