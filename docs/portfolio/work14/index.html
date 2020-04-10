@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Bloomberg Mobile Alert Catcher</title>
+<meta name="description" content="Joe Jo&#39;s professional portfolio site">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<link rel="stylesheet" href="https://greatminds.life/myport/css/bootstrap.min.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
+<link rel="stylesheet" href="https://greatminds.life/myport/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://greatminds.life/myport/css/owl.carousel.css">
+<link rel="stylesheet" href="https://greatminds.life/myport/css/owl.theme.css">
+
+
+  <link href="https://greatminds.life/myport/css/style.pink.css" rel="stylesheet" id="theme-stylesheet">
+
+ 
+
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+
+<link href="https://greatminds.life/myport/css/custom.css" rel="stylesheet">
+<link rel="shortcut icon" href="https://greatminds.life/myport/img/favicon.png">
+
+
+</head>
+<body>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <h1 class="sidebar-heading"><a href="https://greatminds.life/myport">Joe Jo</a></h1>
+    
+      <p class="sidebar-p">I am a well-rounded user experience specialist with cross platform design experience in global organizations</p>
+    
+      <p class="sidebar-p">Originally from South Korea, currently based in New Jersey, US.</p>
+    
+    <ul class="sidebar-menu">
+      
+        <li><a href="https://greatminds.life/myport/about/">About</a></li>
+      
+        <li><a href="https://greatminds.life/myport/career/">Career</a></li>
+      
+        <li><a href="https://greatminds.life/myport/portfolio/">Projects</a></li>
+      
+        <li><a href="https://greatminds.life/myport/contact/">Get in touch</a></li>
+      
+    </ul>
+    <p class="social">
+  
+  
+  
+  
+  
+  <a href="mailto:jojang@gmail.com" data-animate-hover="pulse" class="email">
+    <i class="fa fa-envelope"></i>
+  </a>
+  
+  
+  <a href="https://www.linkedin.com/in/joejous" data-animate-hover="pulse" class="external">
+    <i class="fa fa-linkedin"></i>
+  </a>
+  
+  
+  
+  
+  
+</p>
+
+
+    <div class="copyright">
+      
+    </div>
+  </div>
+</div>
+
+              
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  <div class="small-navbar visible-xs">
+  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
+  <h1 class="small-navbar-heading"><a href="https://greatminds.life/myport">Joe Jo</a></h1>
+</div>
+
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>Bloomberg Mobile Alert Catcher</h1>
+         <p>UX design / Requirement Gathering / Wireframe / Workflow / Prototype</p>
+<h4 id="background">Background</h4>
+<p>Bloomberg terminal provides more than 20,000 functions to allow financial professionals to look up relevant and timely financial information. Alert catcher is one of the offerings which notifies users with market, news and economic event alerts when specified conditions are met(see image below). Once you set alert conditions for those type of alerts, you will get stream of alerts feeds on your mobile, but there is no way you can create new alert conditions on mobile yet. This could only be configured via desktop interface, and there has been growing needs that users want to customize this feature on mobile as well. Starting with market alerts support, we plan to take phased approach to tackle three different alert types in order.</p>
+<p><img src="/img/portfolio/AC1.png" alt="ac1"></p>
+<h4 id="what-to-support-on-mobile">What to support on mobile?</h4>
+<p>After we decided to support market alerts first on mobile, the next thing is to identify core features we need to scale from desktop to mobile. First we wanted to get the full picture of desktop functinalities by going through each criteria or options we can configure to create market alert then tried to identify criteria and options to be supported on mobile with product owners and developers. We were able to create the following list of user stories for mobile experience.</p>
+<ul>
+<li>I want to manage(create/edit/delete) market alerts on mobile</li>
+<li>I want to turn on/off market alerts created from desktop</li>
+<li>I want to create market alert from security page</li>
+<li>I want to set notifications of market, eco and news alerts on mobile
+<img src="/img/portfolio/AC2.png" alt="ac2">
+Markets, Economic events, news alerts supported on Bloomberg professional mobile</li>
+</ul>
+<h4 id="designing-flows-for-managing-alerts">Designing flows for managing alerts</h4>
+<p>Based on the existing navigation framework of mobile alert catcher, one of the key requirement from product owner was to provide multiple entry point of creating market alerts wherever makes sense to support. One of them is on the screen where you see market alerts feed - where you see content, you can control the feed of content. Another entry point is on security page where you see market price detail information of specific asset class. Finally, under market alerts settings page, we added entry to create market alerts. In order to capture these, we have created a flow diagram to show the relationship among different screen states.
+After designing workflows, created individual key screens for each state and put them into wireframe flows to elaborate user stories and requirements captured in the earlier phases.</p>
+<p><img src="/img/portfolio/AC3.jpg" alt="ac3"></p>
+<h4 id="workflow--create-an-alert-from-market-alerts-and-settings">Workflow : Create an alert from market alerts and settings</h4>
+<p><img src="/img/portfolio/AC4.jpg" alt="ac4"></p>
+<h4 id="workflow--create-an-alert-from-security-screen">Workflow : Create an alert from security screen</h4>
+<p><img src="/img/portfolio/AC5.jpg" alt="ac5"></p>
+<h4 id="workflow--from-alert-catcher-settings-to-market-alerts">Workflow : From alert catcher settings to market alerts</h4>
+<p><img src="/img/portfolio/AC6.jpg" alt="ac6"></p>
+<h4 id="editing-an-alert">Editing an alert</h4>
+<p><img src="/img/portfolio/AC7.jpg" alt="ac7"></p>
+<h4 id="workflow--viewing-a-terminal-created-alert">Workflow : Viewing a terminal created alert</h4>
+<p><img src="/img/portfolio/AC8.jpg" alt="ac8"></p>
+<h4 id="take-away">Take away</h4>
+<p>Since terminal created alerts cannot be edited on mobile, it was difficult to differentiate terminal created vs mobile created alerts. For now, it can be distinguished only when user opens an alert, it would have been better if we can indicate the difference on the alerts list.
+Creating an alert from security screen can also be improved by providing conditional creat flow - when user tries to create an alert for a security already has existing alert(s) associated, we could prompt users to either a) edit existing alerts or b) create brand new alert with different set of criteria.
+Since we put an entry point to create an alert from security page, it would make sense to add an entry to the already created alert(s) from the security page so that users can intuitively go to security page if they want to edit the existing alerts.</p>
+         
+      </div>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </div>
+  </div>
+  <script src="https://greatminds.life/myport/js/jquery.min.js"></script>
+<script src="https://greatminds.life/myport/js/bootstrap.min.js"></script>
+<script src="https://greatminds.life/myport/js/jquery.cookie.js"> </script>
+<script src="https://greatminds.life/myport/js/ekko-lightbox.js"></script>
+<script src="https://greatminds.life/myport/js/jquery.scrollTo.min.js"></script>
+<script src="https://greatminds.life/myport/js/masonry.pkgd.min.js"></script>
+<script src="https://greatminds.life/myport/js/imagesloaded.pkgd.min.js"></script>
+<script src="https://greatminds.life/myport/js/owl.carousel.min.js"></script>
+<script src="https://greatminds.life/myport/js/front.js"></script>
+
+
+
+</body>
+</html>
