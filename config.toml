@@ -1,4 +1,4 @@
-baseurl = "https://greatminds.life/myport"
+baseurl = "https://greatminds-life.github.io/myport"
 title = "Joe Jo"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
