@@ -1,4 +1,4 @@
-baseurl = "https://greatminds-life.github.io/myport"
+baseurl = "https://makeyourdesignwork.com"
 title = "Joe Jo"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -13,10 +13,9 @@ publishDir = "docs"
   # Use custom.css for your custom styling
   style = "pink"
   description = "Joe Jo's professional portfolio site"
-  copyright = "&copy;2020 Joe Jo"
+  copyright = "&copy;2020 Joe Jo All Rights Reserved"
   sidebarAbout = [
-    "I am a well-rounded user experience specialist with cross platform design experience in global organizations",
-    "Originally from South Korea, currently based in New Jersey, US."
+    "UX specialist / NJ"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -59,10 +58,14 @@ publishDir = "docs"
   name = "Get in touch"
   url = "contact/"
 
+  [[params.navlinks]]
+  name = "Visti my blog"
+  url = "https://greatminds.life"
+
   [params.social]
-  #facebook      = "full page or profile url in facebook"
+  facebook      = "https://www.facebook.com/joe.jo.8"
   #googleplus    = "full profile url in googleplus"
-  email         = "jojang@gmail.com"
+  #email         = "jojang@gmail.com"
   #twitter       = "full profile url in twitter"
   linkedin      = "https://www.linkedin.com/in/joejous"
   #stackoverflow = "full profile url in stackoverflow"
